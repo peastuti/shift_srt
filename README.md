@@ -1,3 +1,3 @@
-# Shift_SRT README
+# Shift SRT Files using a Python app
 
-shift_srt
+A primitive app used mostly by me to shift de-synchronized SRT files.
